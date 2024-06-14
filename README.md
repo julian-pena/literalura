@@ -21,7 +21,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/julian-pena/literalura">
-    <img src="D:/Downloads_PDF's/badge literalura.png">
+    <img src="https://github.com/julian-pena/literalura/assets/75828460/b563a5b9-4264-4356-acf5-3b652bb85348"
+>
   </a>
 
 <h1 align="center">Literalura Library</h1>
@@ -162,7 +163,8 @@ The application provides a command-line interface to interact with book data. He
 
 <br>
 
-![](C:\Users\user\Desktop\literaluramenu.PNG)
+![literaluramenu](https://github.com/julian-pena/literalura/assets/75828460/1586f7ad-8db4-4a7a-a615-23cc3b25c46e)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
